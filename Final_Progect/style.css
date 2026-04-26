@@ -393,3 +393,25 @@ hr{
     letter-spacing: 1px;
     color: #C4C4C4;
 }
+
+.first a:hover{
+    color: #D400B3;
+    text-shadow: 2px 3px 10px #D400B3;
+    transition: 1.5s ease-in;
+}
+
+.picture11:hover{
+    transform: rotate(360deg);
+    box-shadow: 4px 4px 10px #1E1E1E;
+    transition: 1.5s linear;
+}
+
+.text18:focus{
+background-color: gray;
+}
+
+.twenithseven a:hover{
+    color: #D400B3;
+    text-shadow: 2px 3px 10px #D400B3;
+    transition: 1.5s ease-in;
+}
